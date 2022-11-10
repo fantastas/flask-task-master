@@ -1,0 +1,24 @@
+body {
+    margin: auto;
+    font-family: sans-serif;
+    display: flex;
+    min-height: 100vh;
+    min-width: 100vw;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+
+}
+h1, h4{
+    text-align: center;
+}
+
+table {
+    border: 1px solid black;
+}
+td {
+    border: 1px solid black;
+}
+th {
+    border: 1px solid black;
+}
